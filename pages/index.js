@@ -13,6 +13,7 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<h1 className={styles.title}>Next.js Google Analytics</h1>
+				<h2>Using Google Analytics in Next.js Script</h2>
 			</main>
 		</div>
 	);

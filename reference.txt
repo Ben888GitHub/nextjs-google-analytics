@@ -1,0 +1,9 @@
+https://blog.avneesh.tech/add-google-analytics-to-your-nextjs-app
+
+https://enlear.academy/add-google-analytics-to-a-next-js-application-5525892844db
+
+https://dev.to/theitaliandev/how-to-add-google-analytics-to-nextjs-using-the-script-component-stop-using-inline-script-3kec
+
+https://www.youtube.com/watch?v=DT8vx50Asrk
+
+https://github.com/vercel/next.js/tree/canary/examples/with-google-analytics
